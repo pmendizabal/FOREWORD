@@ -1,0 +1,14 @@
+CURSO PHP 1: PRIMERA PAGINA
+
+Se denominamos a la pagina "index" automaticamente lo leera en nuestro navegador.
+Para abrir la pagina solo basta con escribir http://localhost/CURSO PHP y 
+aparecera. Si no le hemos llamado index y si con otra cosa entonces solo agregamos
+/"nombre que le pusimos" y ya.
+
+Recuerda que <br> significa salto de pagina
+
+Siempre hay que abri el archivo de codigo asi:
+
+<?php
+
+?>
